@@ -1,0 +1,6 @@
+name: Dariya
+surname: Utts
+patronymic: Albertovna
+age: 26
+salary: 1000
+pets: 0
